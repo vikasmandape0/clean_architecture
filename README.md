@@ -1,6 +1,4 @@
-# fbtutorial
-
-A new Flutter project.
+# Clean Architecture project
 
 ## Getting Started
 
